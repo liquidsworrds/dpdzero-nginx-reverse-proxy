@@ -80,12 +80,12 @@ docker-compose up --build
 ```
 
 **Serivce 1**
-- **ping**: http://localhost:8080/service1/ping
-- **hello**: http://localhost:8080/service1/hello
+- `/ping` : http://localhost:8080/service1/ping
+- `/hello`: http://localhost:8080/service1/hello
 
 **Serivce 2**
-- **ping**: http://localhost:8080/service2/ping
-- **hello**: http://localhost:8080/service2/hello
+- `/ping` : http://localhost:8080/service2/ping
+- `/hello`: http://localhost:8080/service2/hello
 
 ## Stop and remove
 ```bash
